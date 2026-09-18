@@ -1,2 +1,2 @@
-# wj-AIagnet-KM
+# hermes-arinawj
 with Hermes
